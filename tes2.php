@@ -1,4 +1,4 @@
 <?php
-	$s = "Assalamualaikum";
+	$s = "Assalamualaikum Jodoh";
 echo $s;
 ?>
